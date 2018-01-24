@@ -5,3 +5,7 @@ This project is able to recognize the ten digit hand gestures with a commercial 
 [1] Hui Liang, Junsong Yuan and Daniel Thalmann, Parsing the Hand in Depth Images, in IEEE Trans. Multimedia, vol. 16, no. 5, Aug. 2014. [Video Link]
 
 [2] Hui Liang and Junsong Yuan, Hand Parsing and Gesture Recognition with a Commodity Depth Camera, in Computer Vision and Machine Learning with RGB-D Sensors, Springer, 2014.
+
+
+
+The video is show in :https://www.youtube.com/watch?v=BEq2nz7cn7g
